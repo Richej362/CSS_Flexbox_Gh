@@ -1,5 +1,5 @@
-# Flexbox Project
+# Flexbox Version Control
 > By Richard Johnson
 
-This is my first Flexbox tutorial and first repository in Git.
+This is a Git verion control demo page for Frontend Now.
 
